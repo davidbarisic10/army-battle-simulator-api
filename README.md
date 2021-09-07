@@ -1,4 +1,4 @@
-This project demonstrates simple battle simulator between two armies. Inputs are sent via GET method in query string. 
+This project demonstrates simple battle simulator between two armies. Inputs are sent via GET method in query string. App is written in Nest.js.
 
 ### How to run the app?
 
@@ -16,7 +16,7 @@ and the app should start on port 8000.
 
 ### How to use the api?
 
-You need to end a get request to http://localhost:8000
+You need to send a get request to http://localhost:8000
 
 and send url parameters with it for example:
 
